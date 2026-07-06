@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # deri_lezyonu_app
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# deri_lezyonu_teshis
+Çocuklarda cilt hastalığı tanıma - CNN model + Flutter uygulama
+>>>>>>> b93f3c2db5c88dc3b4dbe7319551e2eb4c2795a1
