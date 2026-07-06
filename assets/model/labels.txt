@@ -1,0 +1,8 @@
+atopic_dermatitis
+chickenpox
+herpes
+impetigo
+kizamik_measles
+lyme
+maymun_cicegi
+scabies
